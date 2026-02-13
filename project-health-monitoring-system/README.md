@@ -50,3 +50,9 @@ On Track vs Delayed Distribution
 Budget Overruns
 
 Average Completion Rate
+
+Purpose:
+
+Built to demonstrate structured thinking, automation logic design, and operational visibility systems relevant to project analyst roles.
+
+This project reflects a systems-based approach to reducing manual reporting effort and improving proactive risk management.
